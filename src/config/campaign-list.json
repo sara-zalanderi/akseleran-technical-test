@@ -1,0 +1,81 @@
+{
+    "campaigns": [
+		{
+            "name": "Pinjaman Beragunan Usaha Design Interior No.1877/V/20",
+            "percentage": "44.64",
+            "lender_count": "205",
+            "lending_amount": 550000000,
+            "tenor": "2",
+            "interest": "15.00",
+            "collateral": "Ada",
+            "main_installment": "Di akhir tenor",
+            "interest_installment": "Bulanan"
+        },
+        {
+            "name": "Pinjaman Beragunan Usaha Jasa Pengangkutan Laut No.1875/V/20",
+            "percentage": "72.38",
+            "lender_count": "337",
+            "lending_amount": 1333000000,
+            "tenor": "3",
+            "interest": "18.00",
+            "collateral": "Ada",
+            "main_installment": "Di akhir tenor",
+            "interest_installment": "Bulanan"
+        },
+        {
+            "name": "Pinjaman Beragunan Usaha EPC & Fabrication No.1874/V/20",
+            "percentage": "76.13",
+            "lender_count": "137",
+            "lending_amount": 314000000,
+            "tenor": "3",
+            "interest": "15.00",
+            "collateral": "Ada",
+            "main_installment": "Di akhir tenor",
+            "interest_installment": "Bulanan"
+        },
+        {
+            "name": "Pinjaman Beragunan EPC Kontraktor No.1848/V/20",
+            "percentage": "27.19",
+            "lender_count": "53",
+            "lending_amount": 1000000000,
+            "tenor": "3",
+            "interest": "16.75",
+            "collateral": "Ada",
+            "main_installment": "Di akhir tenor",
+            "interest_installment": "Bulanan"
+        },
+        {
+            "name": "Pinjaman Beragunan Usaha Penyedia Switchgear & Produk Elektrikal No.1861/V/20",
+            "percentage": "53.7",
+            "lender_count": "507",
+            "lending_amount": 2000000000,
+            "tenor": "3",
+            "interest": "16.00",
+            "collateral": "Ada",
+            "main_installment": "Di akhir tenor",
+            "interest_installment": "Bulanan"
+        },
+        {
+            "name": "Pinjaman Beragunan Usaha EPC Kontraktor No.1806/IV/20",
+            "percentage": "44.64",
+            "lender_count": "205",
+            "lending_amount": 550000000,
+            "tenor": "2",
+            "interest": "15.00",
+            "collateral": "Ada",
+            "main_installment": "Di akhir tenor",
+            "interest_installment": "Bulanan"
+        },
+        {
+            "name": "Pinjaman Beragunan Usaha Pertambangan Batu Bara No.1871/V/20",
+            "percentage": "90",
+            "lender_count": "18",
+            "lending_amount": 2000000000,
+            "tenor": "3",
+            "interest": "14.00",
+            "collateral": "Ada",
+            "main_installment": "Di akhir tenor",
+            "interest_installment": "Bulanan"
+        }
+	]
+}
